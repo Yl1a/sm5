@@ -1,9 +1,9 @@
 .square {
-    margin: 10PX;
-    width: 100px;
-    height: 100px;
+    margin: 10px;
+    padding: 30px 35px;
     background-color: #236553;
     color: aliceblue;
+    font-size: 25px;
 }
 
 .container_square {
