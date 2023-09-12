@@ -1,0 +1,12 @@
+.square {
+    margin: 10PX;
+    width: 100px;
+    height: 100px;
+    background-color: #236553;
+    color: aliceblue;
+}
+
+.container_square {
+    display: flex;
+    flex-wrap: wrap;
+}
